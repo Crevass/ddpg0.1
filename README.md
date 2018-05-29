@@ -1,2 +1,3 @@
 # ddpg0.1
-ddpg-algorithm
+ddpg-algorithm with tensorflow and openAI gym
+
